@@ -1,0 +1,192 @@
+Why use Python?
+
+or
+
+How would Python be useful?
+
+Watch the first 30 minutes of this talk from Jeremy, Founder of DataRobot at PyCon 2014, Ukraine to get an idea of how useful Python could be.
+
+ 
+
+Step 1: Setting up your machine
+
+Now that you have made up your mind, it is time to set up your machine. The easiest way to proceed is to just download Anaconda from Continuum.io . It comes packaged with most of the things you will need ever. The major downside of taking this route is that you will need to wait for Continuum to update their packages, even when there might be an update available to the underlying libraries. If you are a starter, that should hardly matter.
+
+If you face any challenges in installing, you can find more detailed instructions for various OS here
+
+ 
+
+Step 2: Learn the basics of Python language
+You should start by understanding the basics of the language, libraries and data structure. The free interactive Python tutorial by DataCamp is one of the best places to start your journey. This 4 hour coding course focuses on how to get started with Python for data science and by the end you should be comfortable with the basic concepts of the language.
+
+Specifically learn: Lists, Tuples, Dictionaries, List comprehensions, Dictionary comprehensions 
+
+Assignment: Take the interactive Python tutorial by DataCamp
+
+Alternate resources: If interactive coding is not your style of learning, you can also look at The Google Class for Python. It is a 2 day class series and also covers some of the parts discussed later.
+
+ 
+
+Step 3: Learn Regular Expressions in Python
+You will need to use them a lot for data cleansing, especially if you are working on text data. The best way to learn Regular expressions is to go through the Google class and keep this cheat sheet handy.
+
+Assignment: Do the baby names exercise
+
+If you still need more practice, follow this tutorial for text cleaning. It will challenge you on various steps involved in data wrangling.
+
+Step 4: Learn Scientific libraries in Python – NumPy, SciPy, Matplotlib and Pandas
+This is where fun begins! Here is a brief introduction to various libraries. Let’s start practicing some common operations.
+
+Practice the NumPy tutorial thoroughly, especially NumPy arrays. This will form a good foundation for things to come.
+Next, look at the SciPy tutorials. Go through the introduction and the basics and do the remaining ones basis your needs.
+If you guessed Matplotlib tutorials next, you are wrong! They are too comprehensive for our need here. Instead look at this ipython notebook till Line 68 (i.e. till animations)
+Finally, let us look at Pandas. Pandas provide DataFrame functionality (like R) for Python. This is also where you should spend good time practicing. Pandas would become the most effective tool for all mid-size data analysis. Start with a short introduction, 10 minutes to pandas. Then move on to a more detailed tutorial on pandas.
+Check out DataCamp’s course on Pandas Foundations
+You can also look at Exploratory Data Analysis with Pandas and Data munging with Pandas
+
+Additional Resources:
+
+If you need a book on Pandas and NumPy, “Python for Data Analysis by Wes McKinney”
+There are a lot of tutorials as part of Pandas documentation. You can have a look at them here
+Assignment: Solve this assignment from CS109 course from Harvard.
+
+ 
+
+Step 5: Effective Data Visualization
+Go through this lecture form CS109. You can ignore the initial 2 minutes, but what follows after that is awesome! Follow this lecture up with this assignment
+
+Check out Bokeh Data Visualization Tutorial from DataCamp
+
+ 
+
+Step 6: Learn Scikit-learn and Machine Learning
+Now, we come to the meat of this entire process. Scikit-learn is the most useful library on python for machine learning. Here is a brief overview of the library. Go through lecture 10 to lecture 18 from CS109 course from Harvard. You will go through an overview of machine learning, Supervised learning algorithms like regressions, decision trees, ensemble modeling and non-supervised learning algorithms like clustering. Follow individual lectures with the assignments from those lectures.
+
+ 
+
+Additional Resources:
+
+If there is one book, you must read, it is Programming Collective Intelligence – a classic, but still one of the best books on the subject.
+Additionally, you can also follow one of the best courses on Machine Learning course from Yaser Abu-Mostafa. If you need more lucid explanation for the techniques, you can opt for the Machine learning course from Andrew Ng and follow the exercises on Python.
+Tutorials on Scikit learn
+Assignment: Try out this challenge on Kaggle
+
+ 
+
+Step 7: Practice, practice and Practice
+Congratulations, you made it!
+
+You now have all what you need in technical skills. It is a matter of practice and what better place to practice than compete with fellow Data Scientists on Kaggle. Go, dive into one of the live competitions currently running on Kaggle and give all what you have learnt a try!
+
+ 
+
+Step 8: Deep Learning
+Now that you have learnt most of machine learning techniques, it is time to give Deep Learning a shot. There is a good chance that you already know what is Deep Learning, but if you still need a brief intro, here it is.
+
+I am myself new to deep learning, so please take these suggestions with a pinch of salt. The most comprehensive resource is deeplearning.net. You will find everything here – lectures, datasets, challenges, tutorials. You can also try the course from Geoff Hinton a try in a bid to understand the basics of Neural Networks.
+
+ 
+
+Get Started with Python: A Complete Tutorial To Learn Data Science with Python From Scratch
+
+ 
+
+P.S. In case you need to use Big Data libraries, give Pydoop and PyMongo a try. They are not included here as Big Data learning path is an entire topic in itself.
+
+A mix between data scientist and engineer, Big Data engineers are a new breed in the technology community. Do you have what it takes to be a pioneer? The skills required for Big Data engineering roles aren’t necessarily new things, but they do require a certain level of understanding in a few particular areas for candidates to be successful. Those particular areas? Math and scientific analysis.
+
+If you’ve been successful in engineering roles with those skills in the past, even if you don’t have all the skills or experience listed below, you might be a great fit for a Big Data engineering role.
+
+Click here to find Big Data engineer positions.
+
+You Can Do Lots of Things With Data
+Not all Big Data roles are the same, but there are a few things you can expect to see if you take on a position in this field. Typically the role will include a subset of the following high-level skills:
+
+Data Analysis: Are you a pro with MapReduce, Hadoop or even data mining? In addition to processing data, you may also need to know more specialized techniques like machine learning or even statistical analysis.
+Data Warehousing: Are you familiar with large data stores? Do you know how to get data in or take data out? Good.
+Data Transformation: Sometimes data needs to be changed or transformed into a different format in order to properly analyze it. Can you make it work? You may know this work as ETL or even just scripting.
+Data Collection: You have to crawl before you can walk. Crawling the Web or extracting data from an existing database or API are common chores for Big Data engineers.
+Every role is different, though, so some may require more specialized knowledge in one of these areas over the others. However, if you are an expert in one, it’s not usually too challenging to translate those skills to the other areas.
+
+What You Need
+
+Data Analysis
+MapReduce, Hadoop, Cloudera, IBM Big Insights, Hortonworks or MapR. Most people tend to have experience with one implementation of MapReduce (since many of these tools are only a few years old) but the underlying algorithms make it easy to learn new ones with a few weeks of ramp-up time. If you are familiar with one of the tools listed here, or one of the many flavors of MapReduce (like Hive or Pig), you’ll most likely be able to step into a role using a similar tool.
+Data mining or machine learning. This can include technologies like Mahout, or more specialized techniques like Neural Networks. Having these skills can be a huge asset for you over other candidates if the role requires this kind of work, since these skills are more specialized and harder to learn.
+Statistical analysis software: R, SPSS, SAS, Weka, MATLAB. Most data scientists have some statistical experience, but not all of them will use software to do their work. If that’s you—if you use Java, for example—you may be expected to learn these software tools, but it should be fairly easy to ramp up from what you’re used to.
+Programming skills: Java, Scala, Ruby, C++. Typically, more heavy lifting programming skills will be required for custom implementations or specialized implementations (leveraging things like machine learning, etc.).
+Data Warehousing
+Relational databases: MySQL, MS SQL Server, Oracle, DB2. Expertise with one of these tools takes time, so if your experience matches the tools used at the company you’re interviewing with, that’s a great thing. However, if you’re not an expert with their tools, experience with one of these will make it easier to learn the basics of a new one in a matter of weeks.
+NoSQL: HBase, SAP HANA, HDFS, Cassandra, MongoDB, CouchDB, Vertica, Greenplum, Pentaho and Teradata. In this area, it’s best if your experience matches what the company already uses. Knowledge of one won’t necessarily translate well to others.
+Upload Your ResumeEmployers want candidates like you. Upload your resume. Show them you’re awesome.
+
+Data Collection
+Data APIs (e.g., RESTful interfaces). Most candidates should have some experience working with APIs to collect or ingest data. If not, any candidate with programming or scripting experience can pick this up in less than a week.
+SQL expertise and data modeling. This is something all candidates for Big Data engineering roles should have, so you’ll need to brush up your skills if you haven’t done this kind of work for a while.
+Data Transformation
+ETL Tools: Informatica, DataStage, SSIS, Redpoint. In general, your experience with one of these tools will be applicable to using a different one, if required.
+Scripting. Do you know Linux/Unix commands, Python, Ruby or Perl? While each of these languages works differently, your knowledge of one should translate fairly easily to mastery of another.
+Big Data engineering is a new field with a lot of new technologies and new positions. Not all roles require expertise in every area, so pay attention to what needs the company you’re looking at really has. By taking on one of these roles, you’re tackling a brand new field with lots of possibilities, which means you need to be flexible and open to learning on the fly to do the most amazing work possible.
+
+The secret is out, and the mad rush is on to leverage big data analytics tools and techniques for competitive advantage before they become commoditized. If you’re in the market for a big data job in 2015, these are the nine skills that will garner you a job offer.
+
+1. Apache Hadoop
+Sure, it’s entering its second decade now, but there’s no denying that Hadoop had a monstrous year in 2014 and is positioned for an even bigger 2015 as test clusters are moved into production and software vendors increasingly target the distributed storage and processing architecture. While the big data platform is powerful, Hadoop can be a fussy beast and requires care and feeding by proficient technicians. Those who know there way around the core components of the Hadoop stack–such as HDFS, MapReduce, Flume, Oozie, Hive, Pig, HBase, and YARN–will be in high demand.
+
+2. Apache Spark
+If Hadoop is a known quantity in the big data world, then Spark is a black horse candidate that has the raw potential to eclipse its elephantine cousin. The rapid rise of the in-memory stack is being proffered as a faster and simpler alternative to MapReduce-style analytics, either within a Hadoop framework or outside it. Best positioned as one of the components in a big data pipeline, Spark still requires technical expertise to program and run, thereby providing job opportunities for those in the know.
+
+3. NoSQL
+big data skills and dollas
+Source: Dice Tech 2014 Salary Survey
+
+On the operational side of the big data house, distributed, scale-out NoSQL databases like MongoDB and Couchbase are taking over jobs previously handled by monolithic SQL databases like Oracle and IBM DB2. On the Web and with mobile apps, NoSQL databases are often the source of data crunched in Hadoop, as well as the destination for application changes put in place after insight is gleaned from Hadoop. In the world of big data, Hadoop and NoSQL occupy opposite sides of a virtuous cycle.
+
+4. Machine Learning and Data Mining
+People have been mining for data as long as they’ve been collecting it. But in today’s big data world, data mining has reached a whole new level. One of the hottest fields in big data last year is machine learning, which is poised for a breakout year in 2015. Big data pros who can harness machine learning technology to build and train predictive analytic apps such as classification, recommendation, and personalization systems are in super high demand, and can command top dollar in the job market.
+
+5. Statistical and Quantitative Analysis
+This is what big data is all about. If you have a background in quaRntitative reasoning and a degree in a field like mathematics or statistics, you’re already halfway there. Add in expertise with a statistical tool like R, SAS, Matlab, SPSS, or Stata, and you’ve got this category locked down. In the past, most quants went to work on Wall Street, but thanks to the big data boom, companies in all sorts of industries across the country are in need of geeks with quantitative backgrounds.
+
+6. SQL
+The data-centric language is more than 40-years old, but the old grandpa still has a lot of life yet in today’s big data age. While it won’t be used with all big data challenges (see: NoSQL above), the simplify of Structured Query Language makes it a no-brainer for many of them. And thanks to initiatives like Cloudera‘s Impala, SQL is seeing new life as the lingua franca for the next-generation of Hadoop-scale data warehouses.
+
+7. Data Visualization
+Big data can be tough to comprehend, but in some circumstances there’s no replacement for actually getting your eyeballs onto data. You can do multivariate or logistic regression analysis on your data until the cows come home, but sometimes exploring just a sample of your data in a tool like Tableau or Qlikview can tell you the shape of your data, and even reveal hidden details that change how you proceed. And if you want to be a data artist when you grow up, being well-versed in one or more visualization tools is practically a requirement.
+
+8. General Purpose Programming Languages
+wanted analytics graph
+Source: Wanted Analytics 2014 hiring survey
+
+Having experience programming applications in general-purpose languages like Java, C, Python, or Scala could give you the edge over other candidates whose skill sets are confined to analytics. According to Wanted Analytics, there was a 337 percent increase in the number of job postings for “computer programmers” that required background in data analytics. Those who are comfortable at the intersection of traditional app dev and emerging analytics will be able to write their own tickets and move freely between end-user companies and big data startups.
+
+9. Creativity and Problem Solving
+No matter how many advanced analytic tools and techniques you have on your belt, nothing can replace the ability to think your way through a situation. The implements of big data will inevitably evolve and new technologies will replace the ones listed here. But if you’re equipped with a natural desire to know and a bulldog-like determination to find solutions, then you’ll always have a job offer waiting somewhere.
+
+skills needed for being a big data analyst –
+
+1) Programming
+While traditional data analyst might be able to get away without being a full-fledged programmer, a big data analyst needs to be very comfortable with coding. One of the main reasons for this requirement is that big data is still in an evolution phase. Not many standard processes are set around the large complex datasets a big data analyst has to deal with. A lot of customization is required on daily basis to deal with the unstructured data.
+Which languages are required – R, Python, Java, C++, Ruby, SQL, Hive, SAS, SPSS, MATLAB, Weka, Julia, Scala. As you can not knowing a language should not be a barrier for a big data scientist. At the minimum one needs to know R, Python, and Java. While working you may end up using various tools. Programming Language is only a tool and more tools you have in your kitty, merrier it is.
+
+2) Data Warehousing
+Experience with relational and non -relational database systems is a must. Examples of non- relational database include – Mysql, Oracle, DB2. Examples of non-relational database include – NoSql : Hbase, HDFS, MongoDB, CouchDB, Cassandra, Teradeta, etc.
+
+3) Computational frameworks
+A good understanding and familiarity with frameworks such as Apache Spark, Apache Storm, Apache Samza, Apache Flink and the classic MapReduce and Hadoop. These technologies help in Big Data processing which can be streamed to a great extent.
+
+4) Quantitative Aptitude and Statistics
+YOU MIGHT LIKE
+Making a Successful Career Switch to Data Analytics
+
+Aug 21, 2018
+Introducing Analytics: A Comprehensive Guide for Beginners
+
+Aug 10, 2018
+HBase – A Versatile Data Store
+
+Jun 27, 2018
+While the processing of Big Data requires great use of technology, fundamental to any analysis of data is good knowledge of Statistics and linear algebra. Statistics is a basic building block of data science and understanding of core concepts like summary statistics, probability distribution, random variables, Hypothesis testing framework is important if you are data scientist of any genre.
+
+5) Business Knowledge
+To keep the analysis focused, to validate, sort, relate, evaluate the data, the most critical skill of a big data scientist is to have a good knowledge of the domain one is working on. In fact, the reason big data analysts are so much in demand is that its very rare to find resources who have a thorough understanding of technical aspects, statistics and business. There are analysts good in business and statistics but not in programming. There are expert programmers without the know how of how to put the programs in the context of the business goal.
